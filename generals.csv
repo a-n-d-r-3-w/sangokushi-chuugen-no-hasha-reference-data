@@ -1,3 +1,5 @@
-Allegiance, Name, Onyomi, Health, Intelligence, Weapons, Virtue, Loyalty, Troop Type, Archers, Cavalry, Infantry
-Ma Chao, Ma Chao, Ba Chou, 97, 50, 98, 72, 76, Mountain, 0, 400, 100
-Ma Chao, Ma Teng, Ba Tou, 82, 53, 77, 86, --, Water, 400, 400, 200
+Allegiance, Castle, Name, Onyomi, Health, Intelligence, Weapons, Virtue, Loyalty, Troop Type, Archers, Cavalry, Infantry
+Ma Chao, Ryoushuu, Ma Chao, Ba Chou, 97, 50, 98, 72, 76, Mountain, 0, 400, 100
+Ma Chao, Ryoushuu, Ma Teng, Ba Tou, 82, 53, 77, 86, --, Water, 400, 400, 200
+Ma Chao, Seiheikan, Ba Tetsu, 81, 37, 65, 41, 77, Water, 0, 300, 300
+Ma Chao, Seiheikan, Ba Gan, 75, 47, 60, 55, 78, Plains, 0, 100, 300
